@@ -1,5 +1,4 @@
-# JWT Authentication with .Net Core Web API and Angualar 
-7
+# JWT Authentication with .Net Core Web API and Angular 7
 
 
 

@@ -12,11 +12,11 @@
  Video Tutorial : xxx(will be updated tomorrow)
  
 
- 
+ <!---
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=9WVG-tXl7XA
 " target="_blank"><img src="http://img.youtube.com/vi/9WVG-tXl7XA/0.jpg" 
 alt="Video Tutorial for User Registration with Asp.Net Core Web API and Angular 7" width="500" height="400" border="10" /></a>
-
+-->
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |

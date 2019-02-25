@@ -8,14 +8,12 @@
 
  # Step By Step Explanation
 
- Video Tutorial : xxx(will be updated tomorrow)
+ Video Tutorial : https://youtu.be/s2zJ_g-iQvg
  
 
- <!---
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=9WVG-tXl7XA
-" target="_blank"><img src="http://img.youtube.com/vi/9WVG-tXl7XA/0.jpg" 
-alt="Video Tutorial for User Registration with Asp.Net Core Web API and Angular 7" width="500" height="400" border="10" /></a>
--->
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=s2zJ_g-iQvg
+" target="_blank"><img src="http://img.youtube.com/vi/s2zJ_g-iQvg/0.jpg" 
+alt="Video Tutorial for JWT Authentication with .Net Core Web API and Angular 7" width="500" height="400" border="10" /></a>
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |
